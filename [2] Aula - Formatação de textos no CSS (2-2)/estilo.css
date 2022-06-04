@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    font-size:25px;
+    color:rgb(172, 13, 13);
+}
+
+p{
+    color:#3636f1;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing:1px;
+    word-spacing: 1px;
+    line-height:25px;
+    text-shadow: 2px 2px 3px rgb(231, 119, 119);
+    margin: 30px;
+}
+
+
+

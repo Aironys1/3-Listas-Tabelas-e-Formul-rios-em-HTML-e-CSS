@@ -1,0 +1,63 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    text-align: center;
+    color: rgb(214, 195, 195);
+}
+
+label{
+    font-weight: bold;
+    font-size:25px;
+    font-family: cursive;
+    color:white;
+}
+
+input,textarea,select{
+    border: 0;
+    width:200px;
+    height:20px;
+    align-items: center;
+    background-color: #b9f1df;
+    color: rgb(25, 10, 161);
+    font-size:20px;
+    padding: 10px;
+    outline: 0;
+    display: block;
+    width:500px;
+    
+}
+
+select{
+    padding: 0;
+    height:30px;
+}
+
+
+
+textarea{
+    width: 200px;
+}
+
+select{
+    margin-bottom:200px;
+}
+
+button{
+    padding: 10px;
+    font-size:15px;
+    border: 3px solid rebeccapurple;
+    border-radius:10px;
+    cursor: pointer;
+    color: white;
+    background-color:blue;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+
+button:hover{
+    color:blue;
+    background-color:white;
+}
+

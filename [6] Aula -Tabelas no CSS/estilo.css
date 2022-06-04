@@ -1,0 +1,31 @@
+table{
+    width:600px;
+}
+
+td,th{
+    border: 1px solid black;
+    padding: 5px;
+    cursor: pointer;
+}
+table thead {
+    background-color:royalblue;
+}
+
+table tbody {
+    background-color: aqua;
+}
+
+
+
+tfoot{
+    background-color:grey;
+}
+
+tbody tr:hover{
+    background-color:azure;
+
+}
+
+tbody tr:nth-child(even){
+    background-color:aquamarine;
+}

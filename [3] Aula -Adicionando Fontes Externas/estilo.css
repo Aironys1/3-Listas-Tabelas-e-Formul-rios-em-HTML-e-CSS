@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    font-size:45px;
+    color:rgb(172, 13, 13);
+    font-family: 'Lobster', cursive;;
+}
+
+h2{
+    font-family: 'Red Hat Mono', monospace;
+    text-align: center;
+    font-size:35px;
+
+
+}
+
+p{
+    color:#3636f1;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height:45px;
+    margin: 30px;
+    font-family: 'Hurricane', cursive;
+
+}
+
+
+

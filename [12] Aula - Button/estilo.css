@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(202, 147, 43);
+}
+
+h1,h2{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    color: black;
+}
+
+textarea{
+    display: block;
+    margin: 0 auto
+}
+
+input, button{
+    display: block;
+    margin: 10px auto;
+}
+
+div{
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+div form button{
+    background-color:rgb(39, 148, 221);
+    border: 0;
+    color: white;
+    width:120px;
+    height: 25px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-right: 20px;
+} 
+
+div form button:hover{
+    color: black;
+    background-color:wheat;
+}
+    
+
+

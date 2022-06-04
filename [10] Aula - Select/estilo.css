@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+}
+
+select{
+    display: block;
+    margin:210px auto;
+    width: 500px;
+    background-color:rgb(33, 209, 233);
+    color: aliceblue;
+    border:0;
+    font-size: 25px;
+
+}
+
+input{
+    display: block;
+    margin: 0 auto;
+}

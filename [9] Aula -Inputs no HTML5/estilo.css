@@ -1,0 +1,37 @@
+form{
+    margin: 20px;
+    border-top: 3px solid royalblue;
+
+}
+
+
+.container-cadastro{
+    display: block;
+    background-color:rgb(129, 120, 138);
+    margin: 10px auto;
+}
+
+.container-cadastro input{
+    display: block;
+    margin: 10px auto;
+    padding-bottom:10px;
+    background-color:rgb(58, 55, 61);
+    border: 0;
+}
+
+.container-cadastro .cadastro{
+    display: block;
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.cadastro div{
+    margin:20px;
+    color: aliceblue;
+}
+
+
+body{
+    background-color:rgb(132, 165, 236);
+}

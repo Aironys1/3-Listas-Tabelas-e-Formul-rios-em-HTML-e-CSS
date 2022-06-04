@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(202, 147, 43);
+}
+
+h1,h2{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    color: black;
+}
+
+textarea{
+    display: block;
+    margin: 0 auto
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+}

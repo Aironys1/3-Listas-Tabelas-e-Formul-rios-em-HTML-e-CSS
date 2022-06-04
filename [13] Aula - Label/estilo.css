@@ -1,0 +1,27 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    text-align: center;
+}
+
+label{
+    font-weight: bold;
+    font-size:25px;
+    font-family: cursive;
+    color:white;
+}
+
+input{
+    border: 0;
+    width:200px;
+    height:20px;
+    align-items: center;
+    background-color: #b9f1df;
+    color: rgb(25, 10, 161);
+    font-size:20px;
+    padding: 10px;
+    
+}
+
